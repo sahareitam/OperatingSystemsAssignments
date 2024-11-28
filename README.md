@@ -52,5 +52,3 @@ Each assignment folder contains specific instructions for running the project. N
 
 ---
 
-## License
-This repository is licensed under the [MIT License](LICENSE).
