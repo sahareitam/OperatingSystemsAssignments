@@ -1,0 +1,15 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Visual Studio files
+*.suo
+*.user
+*.cache
+.vs/
+bin/
+obj/
+
+# Ignore temporary files
+*.log
+*.tmp
